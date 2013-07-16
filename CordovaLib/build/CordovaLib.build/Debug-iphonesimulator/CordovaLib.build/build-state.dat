@@ -1,0 +1,1385 @@
+TCordovaLib
+v5
+r1
+cCheck dependencies
+cCpHeader Classes/CDVExif.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVExif.h
+cCpHeader Classes/CDVJpegHeaderWriter.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVJpegHeaderWriter.h
+cCpHeader Classes/CDVCamera.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCamera.h
+cCpHeader Classes/NSDictionary+Extensions.h /Users/faust45/work/job/app-aggress/build/include/Cordova/NSDictionary+Extensions.h
+cCpHeader Classes/CDVContacts.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVContacts.h
+cCpHeader Classes/CDVFile.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVFile.h
+cCpHeader Classes/CDVLocation.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVLocation.h
+cCpHeader Classes/CDVInvokedUrlCommand.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVInvokedUrlCommand.h
+cCpHeader Classes/CDVNotification.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVNotification.h
+cCpHeader Classes/NSData+Base64.h /Users/faust45/work/job/app-aggress/build/include/Cordova/NSData+Base64.h
+cCpHeader Classes/CDVReachability.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVReachability.h
+cCpHeader Classes/CDVSound.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVSound.h
+cCpHeader Classes/CDVAccelerometer.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVAccelerometer.h
+cCpHeader Classes/CDVContact.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVContact.h
+cCpHeader Classes/CDVPluginResult.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVPluginResult.h
+cCpHeader Classes/CDVFileTransfer.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVFileTransfer.h
+cCpHeader Classes/CDVConnection.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVConnection.h
+cCpHeader Classes/CDVCapture.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCapture.h
+cCpHeader Classes/CDVDebug.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVDebug.h
+cCpHeader Classes/CDVPlugin.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVPlugin.h
+cCpHeader Classes/CDVSplashScreen.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVSplashScreen.h
+cCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/faust45/work/job/app-aggress/build/include/Cordova/NSMutableArray+QueueAdditions.h
+cCpHeader Classes/CDVWhitelist.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVWhitelist.h
+cCpHeader Classes/CDVBattery.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVBattery.h
+cCpHeader Classes/CDVURLProtocol.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVURLProtocol.h
+cCpHeader Classes/CDVViewController.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVViewController.h
+cCpHeader Classes/CDVCommandDelegate.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCommandDelegate.h
+cCpHeader Classes/CDV.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDV.h
+cCpHeader Classes/CDVAvailability.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVAvailability.h
+cCpHeader Classes/CDVLocalStorage.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVLocalStorage.h
+cCpHeader Classes/UIDevice+Extensions.h /Users/faust45/work/job/app-aggress/build/include/Cordova/UIDevice+Extensions.h
+cCpHeader Classes/CDVLogger.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVLogger.h
+cCpHeader Classes/NSArray+Comparisons.h /Users/faust45/work/job/app-aggress/build/include/Cordova/NSArray+Comparisons.h
+cCpHeader Classes/CDVDevice.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVDevice.h
+cCpHeader Classes/CDVEcho.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVEcho.h
+cCpHeader Classes/CDVCommandQueue.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCommandQueue.h
+cCpHeader Classes/CDVCommandDelegateImpl.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCommandDelegateImpl.h
+cCpHeader Classes/CDVGlobalization.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVGlobalization.h
+cCpHeader Classes/CDVInAppBrowser.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVInAppBrowser.h
+cCpHeader Classes/CDVScreenOrientationDelegate.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVScreenOrientationDelegate.h
+cCpHeader Classes/CDVConfigParser.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVConfigParser.h
+cCpHeader Classes/CDVJSON.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVJSON.h
+cCpHeader Classes/CDVWebViewDelegate.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVWebViewDelegate.h
+cCpHeader Classes/CDVUserAgentUtil.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVUserAgentUtil.h
+cCpHeader Classes/CDVTimer.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVTimer.h
+cProcessPCH /var/folders/3p/cwsmt4k57ds43k8vv8plgmw00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-ducrtdzasgamjaezewmdfvqiuxmt/CordovaLib_Prefix.pch.pth CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDV.h
+c0000000051E004C600000000000006A3
+t1373635782
+s1699
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVAccelerometer.h
+c0000000051E004C600000000000004A4
+t1373635782
+s1188
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVAccelerometer.m
+c0000000051E004C6000000000000105A
+t1373635782
+s4186
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVAvailability.h
+c0000000051E004C60000000000000C47
+t1373635782
+s3143
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVBattery.h
+c0000000051E004C6000000000000053A
+t1373635782
+s1338
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVBattery.m
+c0000000051E004C6000000000000163B
+t1373635782
+s5691
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVCamera.h
+c0000000051E004C60000000000000F74
+t1373635782
+s3956
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVCamera.m
+c0000000051E004C600000000000076C4
+t1373635782
+s30404
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVCapture.h
+c0000000051E004C6000000000000123F
+t1373635782
+s4671
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVCapture.m
+c0000000051E004C60000000000008DE4
+t1373635782
+s36324
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVCommandDelegate.h
+c0000000051E004C600000000000008BA
+t1373635782
+s2234
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVCommandDelegateImpl.h
+c0000000051E004C60000000000000473
+t1373635782
+s1139
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVCommandDelegateImpl.m
+c0000000051E004C6000000000000126E
+t1373635782
+s4718
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVCommandQueue.h
+c0000000051E004C60000000000000501
+t1373635782
+s1281
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVCommandQueue.m
+c0000000051E004C60000000000001647
+t1373635782
+s5703
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVConfigParser.h
+c0000000051E004C600000000000004CB
+t1373635782
+s1227
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVConfigParser.m
+c0000000051E004C60000000000001041
+t1373635782
+s4161
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVConnection.h
+c0000000051E004C6000000000000043E
+t1373635782
+s1086
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVConnection.m
+c0000000051E004C60000000000001130
+t1373635782
+s4400
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVContact.h
+c0000000051E004C60000000000001640
+t1373635782
+s5696
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVContact.m
+c0000000051E004C600000000000137BD
+t1373635782
+s79805
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVContacts.h
+c0000000051E004C600000000000014F1
+t1373635782
+s5361
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVContacts.m
+c0000000051E004C60000000000006841
+t1373635782
+s26689
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVDebug.h
+c0000000051E004C60000000000000401
+t1373635782
+s1025
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVDevice.h
+c0000000051E004C600000000000003B5
+t1373635782
+s949
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVDevice.m
+c0000000051E004C60000000000000C04
+t1373635782
+s3076
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVEcho.h
+c0000000051E004C60000000000000342
+t1373635782
+s834
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVEcho.m
+c0000000051E004C600000000000008DA
+t1373635782
+s2266
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVExif.h
+c0000000051E004C60000000000000666
+t1373635782
+s1638
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVFile.h
+c0000000051E004C6000000000000105B
+t1373635782
+s4187
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVFile.m
+c0000000051E004C6000000000000FC3C
+t1373635782
+s64572
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVFileTransfer.h
+c0000000051E004C60000000000000C6E
+t1373635782
+s3182
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVFileTransfer.m
+c0000000051E004C60000000000007D28
+t1373635782
+s32040
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVGlobalization.h
+c0000000051E004C60000000000001903
+t1373635782
+s6403
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVGlobalization.m
+c0000000051E004C600000000000085E3
+t1373635782
+s34275
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVInAppBrowser.h
+c0000000051E004C60000000000000CA4
+t1373635782
+s3236
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVInAppBrowser.m
+c0000000051E004C6000000000000837F
+t1373635782
+s33663
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVInvokedUrlCommand.h
+c0000000051E004C60000000000000906
+t1373635782
+s2310
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVInvokedUrlCommand.m
+c0000000051E004C600000000000010D4
+t1373635782
+s4308
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVJSON.h
+c0000000051E004C600000000000003DA
+t1373635782
+s986
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVJSON.m
+c0000000051E004C6000000000000098E
+t1373635782
+s2446
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVJpegHeaderWriter.h
+c0000000051E004C60000000000000AE3
+t1373635782
+s2787
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVJpegHeaderWriter.m
+c0000000051E004C6000000000000672A
+t1373635782
+s26410
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVLocalStorage.h
+c0000000051E004C600000000000006CF
+t1373635782
+s1743
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVLocalStorage.m
+c0000000051E004C60000000000004C6C
+t1373635782
+s19564
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVLocation.h
+c0000000051E004C60000000000000E25
+t1373635782
+s3621
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVLocation.m
+c0000000051E004C60000000000005CD1
+t1373635782
+s23761
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVLogger.h
+c0000000051E004C60000000000000377
+t1373635782
+s887
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVLogger.m
+c0000000051E004C60000000000000488
+t1373635782
+s1160
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVNotification.h
+c0000000051E004C600000000000004E4
+t1373635782
+s1252
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVNotification.m
+c0000000051E004C6000000000000127E
+t1373635782
+s4734
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVPlugin.h
+c0000000051E004C60000000000000892
+t1373635782
+s2194
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVPlugin.m
+c0000000051E004C600000000000016AE
+t1373635782
+s5806
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVPluginResult.h
+c0000000051E004C60000000000000C13
+t1373635782
+s3091
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVPluginResult.m
+c0000000051E004C60000000000001B29
+t1373635782
+s6953
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVReachability.h
+c0000000051E004C60000000000000FF4
+t1373635782
+s4084
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVReachability.m
+c0000000051E004C600000000000026F6
+t1373635782
+s9974
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+c0000000051E004C60000000000000408
+t1373635782
+s1032
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVSound.h
+c0000000051E004C60000000000000E0C
+t1373635782
+s3596
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVSound.m
+c0000000051E004C600000000000075F0
+t1373635782
+s30192
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVSplashScreen.h
+c0000000051E004C60000000000000445
+t1373635782
+s1093
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVSplashScreen.m
+c0000000051E004C60000000000002098
+t1373635782
+s8344
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVTimer.h
+c0000000051E004C6000000000000038D
+t1373635782
+s909
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVTimer.m
+c0000000051E004C60000000000000AA2
+t1373635782
+s2722
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVURLProtocol.h
+c0000000051E004C6000000000000041C
+t1373635782
+s1052
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVURLProtocol.m
+c0000000051E004C600000000000024E4
+t1373635782
+s9444
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVUserAgentUtil.h
+c0000000051E004C60000000000000421
+t1373635782
+s1057
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVUserAgentUtil.m
+c0000000051E004C600000000000012A2
+t1373635782
+s4770
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVViewController.h
+c0000000051E004C60000000000000B67
+t1373635782
+s2919
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVViewController.m
+c0000000051E004C6000000000000872B
+t1373635782
+s34603
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVWebViewDelegate.h
+c0000000051E004C600000000000005A2
+t1373635782
+s1442
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVWebViewDelegate.m
+c0000000051E004C60000000000003629
+t1373635782
+s13865
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVWhitelist.h
+c0000000051E004C600000000000004B4
+t1373635782
+s1204
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVWhitelist.m
+c0000000051E004C60000000000002216
+t1373635782
+s8726
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/NSArray+Comparisons.h
+c0000000051E004C60000000000000392
+t1373635782
+s914
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/NSArray+Comparisons.m
+c0000000051E004C600000000000004D8
+t1373635782
+s1240
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/NSData+Base64.h
+c0000000051E004C6000000000000037D
+t1373635782
+s893
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/NSData+Base64.m
+c0000000051E004C600000000000022CC
+t1373635782
+s8908
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/NSDictionary+Extensions.h
+c0000000051E004C600000000000005DA
+t1373635782
+s1498
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/NSDictionary+Extensions.m
+c0000000051E004C60000000000001059
+t1373635782
+s4185
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+c0000000051E004C600000000000003A0
+t1373635782
+s928
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+c0000000051E004C60000000000000584
+t1373635782
+s1412
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/UIDevice+Extensions.h
+c0000000051E004C60000000000000476
+t1373635782
+s1142
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/Classes/UIDevice+Extensions.m
+c0000000051E004C60000000000000620
+t1373635782
+s1568
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/CordovaLib_Prefix.pch
+c0000000051E004C60000000000000346
+t1373635782
+s838
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVAccelerometer.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVBattery.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCamera.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCapture.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConnection.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVContact.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVContacts.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVDevice.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVFile.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVFileTransfer.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVGlobalization.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInAppBrowser.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJpegHeaderWriter.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocation.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLogger.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVNotification.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVReachability.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVSound.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVSplashScreen.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList
+c0000000051E0557F000000000000163E
+t1373656447
+s5694
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+t2
+s0
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDV.h
+t1373656447
+s1699
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVAccelerometer.h
+t1373656447
+s1188
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVAvailability.h
+t1373656447
+s3143
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVBattery.h
+t1373656447
+s1338
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCamera.h
+t1373656447
+s3956
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCapture.h
+t1373656447
+s4671
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCommandDelegate.h
+t1373656447
+s2234
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCommandDelegateImpl.h
+t1373656447
+s1139
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCommandQueue.h
+t1373656447
+s1281
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVConfigParser.h
+t1373656447
+s1227
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVConnection.h
+t1373656447
+s1086
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVContact.h
+t1373656447
+s5696
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVContacts.h
+t1373656447
+s5361
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVDebug.h
+t1373656447
+s1025
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVDevice.h
+t1373656447
+s949
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVEcho.h
+t1373656447
+s834
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVExif.h
+t1373656447
+s1638
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVFile.h
+t1373656447
+s4187
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVFileTransfer.h
+t1373656447
+s3182
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVGlobalization.h
+t1373656447
+s6403
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVInAppBrowser.h
+t1373656447
+s3236
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVInvokedUrlCommand.h
+t1373656447
+s2310
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVJSON.h
+t1373656447
+s986
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVJpegHeaderWriter.h
+t1373656447
+s2787
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVLocalStorage.h
+t1373656447
+s1743
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVLocation.h
+t1373656447
+s3621
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVLogger.h
+t1373656447
+s887
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVNotification.h
+t1373656447
+s1252
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVPlugin.h
+t1373656447
+s2194
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVPluginResult.h
+t1373656447
+s3091
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVReachability.h
+t1373656447
+s4084
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVScreenOrientationDelegate.h
+t1373656447
+s1032
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVSound.h
+t1373656447
+s3596
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVSplashScreen.h
+t1373656447
+s1093
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVTimer.h
+t1373656447
+s909
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVURLProtocol.h
+t1373656447
+s1052
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVUserAgentUtil.h
+t1373656447
+s1057
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVViewController.h
+t1373656447
+s2919
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVWebViewDelegate.h
+t1373656447
+s1442
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVWhitelist.h
+t1373656447
+s1204
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/NSArray+Comparisons.h
+t1373656447
+s914
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/NSData+Base64.h
+t1373656447
+s893
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/NSDictionary+Extensions.h
+t1373656447
+s1498
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/NSMutableArray+QueueAdditions.h
+t1373656447
+s928
+
+N/Users/faust45/work/job/app-aggress/build/include/Cordova/UIDevice+Extensions.h
+t1373656447
+s1142
+
+N/Users/faust45/work/job/app-aggress/build/libCordova.a
+t2
+s0
+
+N/var/folders/3p/cwsmt4k57ds43k8vv8plgmw00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-ducrtdzasgamjaezewmdfvqiuxmt/CordovaLib_Prefix.pch.pth
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies5b61faf9e995b741^1dad36fae995b741^---0#1#0#--18"Check dependencies36"C6AD0CCB-117C-40CB-B002-3BEB029CDB9B-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVAccelerometer.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVAccelerometer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVBattery.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVBattery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCamera.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVCamera.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCapture.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVCapture.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConnection.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVConnection.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVContact.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVContact.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVContacts.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVContacts.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVDevice.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVEcho.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVFile.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVFile.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVFileTransfer.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVFileTransfer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVGlobalization.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVGlobalization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInAppBrowser.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVInAppBrowser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJpegHeaderWriter.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVJpegHeaderWriter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocation.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVLocation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLogger.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVNotification.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVNotification.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVReachability.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVReachability.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVSound.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVSound.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVSplashScreen.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVSplashScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/faust45/work/job/app-aggress/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCpHeader Classes/CDV.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDV.h
+s395349247.690452
+e395349247.694393
+r1
+xCpHeader
+xClasses/CDV.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDV.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDV.h03ebb0ff8c90b741^fcc4b1ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDV.h000000000080d041^833"CpHeader Classes/CDV.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDV.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDV.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"11BF9C47-1089-479A-80EB-FF36E5439F49-
+
+CCpHeader Classes/CDVAccelerometer.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVAccelerometer.h
+s395349247.651775
+e395349247.668266
+r1
+xCpHeader
+xClasses/CDVAccelerometer.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVAccelerometer.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVAccelerometer.h0af7a6ff8c90b741^e928abff8c90b741^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVAccelerometer.h000000000080d041^872"CpHeader Classes/CDVAccelerometer.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVAccelerometer.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVAccelerometer.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"6F09CA27-99ED-4B44-BA65-4CA4620D8AC6-
+
+CCpHeader Classes/CDVAvailability.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVAvailability.h
+s395349247.691806
+e395349247.696581
+r1
+xCpHeader
+xClasses/CDVAvailability.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVAvailability.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVAvailability.h9142b1ff8c90b741^4353b2ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVAvailability.h000000000080d041^869"CpHeader Classes/CDVAvailability.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVAvailability.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVAvailability.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"13F2DE63-7A36-468D-837F-65AA0B281F0E-
+
+CCpHeader Classes/CDVBattery.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVBattery.h
+s395349247.684831
+e395349247.689270
+r1
+xCpHeader
+xClasses/CDVBattery.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVBattery.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVBattery.h0873afff8c90b741^7973b0ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVBattery.h000000000080d041^854"CpHeader Classes/CDVBattery.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVBattery.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVBattery.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"41CFAA0E-BE70-40FF-804D-04BF11751E77-
+
+CCpHeader Classes/CDVCamera.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCamera.h
+s395349247.636817
+e395349247.642172
+r1
+xCpHeader
+xClasses/CDVCamera.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCamera.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCamera.h3c31a3ff8c90b741^9066a4ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCamera.h000000000080d041^851"CpHeader Classes/CDVCamera.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCamera.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVCamera.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"4DB7BBCD-78C1-4C27-B087-1E8EDD86F60E-
+
+CCpHeader Classes/CDVCapture.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCapture.h
+s395349247.674903
+e395349247.682968
+r1
+xCpHeader
+xClasses/CDVCapture.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCapture.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCapture.h03efacff8c90b741^30d7aeff8c90b741^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCapture.h000000000080d041^854"CpHeader Classes/CDVCapture.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCapture.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVCapture.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"E37DE279-6D49-4D70-8FA7-ABC6E12D3DD6-
+
+CCpHeader Classes/CDVCommandDelegate.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCommandDelegate.h
+s395349247.690426
+e395349247.693478
+r1
+xCpHeader
+xClasses/CDVCommandDelegate.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCommandDelegate.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCommandDelegate.h86e8b0ff8c90b741^d787b1ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCommandDelegate.h000000000080d041^878"CpHeader Classes/CDVCommandDelegate.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCommandDelegate.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVCommandDelegate.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"EA1EF4C7-67EE-434A-BCF1-F45366665B8E-
+
+CCpHeader Classes/CDVCommandDelegateImpl.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCommandDelegateImpl.h
+s395349247.702888
+e395349247.707472
+r1
+xCpHeader
+xClasses/CDVCommandDelegateImpl.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCommandDelegateImpl.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCommandDelegateImpl.h8f1db4ff8c90b741^ba2db5ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCommandDelegateImpl.h000000000080d041^890"CpHeader Classes/CDVCommandDelegateImpl.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCommandDelegateImpl.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVCommandDelegateImpl.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"2278C9D7-BFDF-4BBE-A383-FB0462FED29F-
+
+CCpHeader Classes/CDVCommandQueue.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCommandQueue.h
+s395349247.700749
+e395349247.705027
+r1
+xCpHeader
+xClasses/CDVCommandQueue.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCommandQueue.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCommandQueue.hac8fb3ff8c90b741^6284b4ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCommandQueue.h000000000080d041^869"CpHeader Classes/CDVCommandQueue.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVCommandQueue.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVCommandQueue.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"33697F11-DD13-4E7C-B31F-5D7029EF6C99-
+
+CCpHeader Classes/CDVConfigParser.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVConfigParser.h
+s395349247.708884
+e395349247.712040
+r1
+xCpHeader
+xClasses/CDVConfigParser.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVConfigParser.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVConfigParser.ha4a6b5ff8c90b741^1b49b6ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVConfigParser.h000000000080d041^869"CpHeader Classes/CDVConfigParser.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVConfigParser.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVConfigParser.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"1A9180AC-7B7C-4DC8-8065-EB244CB73A16-
+
+CCpHeader Classes/CDVConnection.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVConnection.h
+s395349247.674780
+e395349247.677817
+r1
+xCpHeader
+xClasses/CDVConnection.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVConnection.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVConnection.hf7e9acff8c90b741^c58fadff8c90b741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVConnection.h000000000080d041^863"CpHeader Classes/CDVConnection.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVConnection.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVConnection.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"00D7F4A8-D412-4D87-861A-D3DAE066B22F-
+
+CCpHeader Classes/CDVContact.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVContact.h
+s395349247.652226
+e395349247.674028
+r1
+xCpHeader
+xClasses/CDVContact.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVContact.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVContact.hea24a7ff8c90b741^bc96acff8c90b741^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVContact.h000000000080d041^854"CpHeader Classes/CDVContact.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVContact.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVContact.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"C23C7A3A-1E72-427A-95F7-DD9D88200CAE-
+
+CCpHeader Classes/CDVContacts.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVContacts.h
+s395349247.642464
+e395349247.646100
+r1
+xCpHeader
+xClasses/CDVContacts.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVContacts.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVContacts.h6b99a4ff8c90b741^8867a5ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVContacts.h000000000080d041^857"CpHeader Classes/CDVContacts.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVContacts.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVContacts.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"E1DB0DFA-FB39-4865-90C3-CBA136D21B13-
+
+CCpHeader Classes/CDVDebug.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVDebug.h
+s395349247.677359
+e395349247.685271
+r1
+xCpHeader
+xClasses/CDVDebug.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVDebug.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVDebug.he693adff8c90b741^3f6eafff8c90b741^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVDebug.h000000000080d041^848"CpHeader Classes/CDVDebug.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVDebug.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVDebug.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"2CF15DE1-749E-49BE-BCE4-47E8B7D44D50-
+
+CCpHeader Classes/CDVDevice.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVDevice.h
+s395349247.697829
+e395349247.701938
+r1
+xCpHeader
+xClasses/CDVDevice.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVDevice.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVDevice.h6bd5b2ff8c90b741^5ab9b3ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVDevice.h000000000080d041^851"CpHeader Classes/CDVDevice.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVDevice.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVDevice.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"D7CD3BFF-615A-4496-A60A-7CFFE64AC40C-
+
+CCpHeader Classes/CDVEcho.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVEcho.h
+s395349247.698874
+e395349247.704303
+r1
+xCpHeader
+xClasses/CDVEcho.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVEcho.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVEcho.h7808b3ff8c90b741^085bb4ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVEcho.h000000000080d041^845"CpHeader Classes/CDVEcho.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVEcho.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVEcho.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"686E12BF-8CDE-4B73-A4DF-FC0CED358A51-
+
+CCpHeader Classes/CDVExif.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVExif.h
+s395349247.636120
+e395349247.640993
+r1
+xCpHeader
+xClasses/CDVExif.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVExif.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVExif.ha8fda2ff8c90b741^1e18a4ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVExif.h000000b14c051042^845"CpHeader Classes/CDVExif.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVExif.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVExif.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"3573DE61-7D29-48BB-8D4F-74DDC8E3CE7E-
+
+CCpHeader Classes/CDVFile.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVFile.h
+s395349247.642494
+e395349247.646355
+r1
+xCpHeader
+xClasses/CDVFile.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVFile.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVFile.h8ba5a4ff8c90b741^ff76a5ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVFile.h000000000080d041^845"CpHeader Classes/CDVFile.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVFile.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVFile.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"6E57A148-626F-4D14-9F48-DCEBA0CF873A-
+
+CCpHeader Classes/CDVFileTransfer.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVFileTransfer.h
+s395349247.667656
+e395349247.675961
+r1
+xCpHeader
+xClasses/CDVFileTransfer.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVFileTransfer.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVFileTransfer.h651cabff8c90b741^8f18adff8c90b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVFileTransfer.h000000000080d041^869"CpHeader Classes/CDVFileTransfer.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVFileTransfer.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVFileTransfer.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"99ACE758-A7DD-46D1-8959-20DF5831E6B9-
+
+CCpHeader Classes/CDVGlobalization.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVGlobalization.h
+s395349247.702895
+e395349247.708672
+r1
+xCpHeader
+xClasses/CDVGlobalization.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVGlobalization.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVGlobalization.h0c3bb4ff8c90b741^a470b5ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVGlobalization.h000000000080d041^872"CpHeader Classes/CDVGlobalization.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVGlobalization.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVGlobalization.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"FEA9F3B7-08A4-42E9-A624-F139CCDB8A1C-
+
+CCpHeader Classes/CDVInAppBrowser.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVInAppBrowser.h
+s395349247.705649
+e395349247.709971
+r1
+xCpHeader
+xClasses/CDVInAppBrowser.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVInAppBrowser.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVInAppBrowser.h42d1b4ff8c90b741^a7ccb5ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVInAppBrowser.h000000000080d041^869"CpHeader Classes/CDVInAppBrowser.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVInAppBrowser.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVInAppBrowser.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"6079CAC1-E93E-452A-8D8F-A7830E482CB1-
+
+CCpHeader Classes/CDVInvokedUrlCommand.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVInvokedUrlCommand.h
+s395349247.642723
+e395349247.648527
+r1
+xCpHeader
+xClasses/CDVInvokedUrlCommand.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVInvokedUrlCommand.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVInvokedUrlCommand.h67b5a4ff8c90b741^9d10a6ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVInvokedUrlCommand.h000000000080d041^884"CpHeader Classes/CDVInvokedUrlCommand.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVInvokedUrlCommand.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVInvokedUrlCommand.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"AB02A615-A4D6-40DB-9604-511F87D8A04B-
+
+CCpHeader Classes/CDVJSON.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVJSON.h
+s395349247.709346
+e395349247.712967
+r1
+xCpHeader
+xClasses/CDVJSON.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVJSON.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVJSON.h2bc2b5ff8c90b741^8386b6ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVJSON.h000000000080d041^845"CpHeader Classes/CDVJSON.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVJSON.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVJSON.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"903BDF78-461C-453F-B9CE-F683C2B7C719-
+
+CCpHeader Classes/CDVJpegHeaderWriter.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVJpegHeaderWriter.h
+s395349247.636810
+e395349247.641647
+r1
+xCpHeader
+xClasses/CDVJpegHeaderWriter.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVJpegHeaderWriter.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVJpegHeaderWriter.h9a27a3ff8c90b741^c842a4ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVJpegHeaderWriter.h000000000080d041^881"CpHeader Classes/CDVJpegHeaderWriter.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVJpegHeaderWriter.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVJpegHeaderWriter.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"54C16B13-98A9-4034-8916-B04BC9244D94-
+
+CCpHeader Classes/CDVLocalStorage.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVLocalStorage.h
+s395349247.693224
+e395349247.697549
+r1
+xCpHeader
+xClasses/CDVLocalStorage.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVLocalStorage.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVLocalStorage.h4da3b1ff8c90b741^6092b2ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVLocalStorage.h000000000080d041^869"CpHeader Classes/CDVLocalStorage.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVLocalStorage.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVLocalStorage.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"ABBC44DD-9DC2-4E6E-B2D0-6D72D726DBF7-
+
+CCpHeader Classes/CDVLocation.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVLocation.h
+s395349247.644397
+e395349247.649137
+r1
+xCpHeader
+xClasses/CDVLocation.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVLocation.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVLocation.hc713a5ff8c90b741^b62da6ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVLocation.h000000000080d041^857"CpHeader Classes/CDVLocation.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVLocation.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVLocation.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"EFFC9090-5E14-489E-8467-B7D141903AB4-
+
+CCpHeader Classes/CDVLogger.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVLogger.h
+s395349247.694635
+e395349247.697735
+r1
+xCpHeader
+xClasses/CDVLogger.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVLogger.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVLogger.h5801b2ff8c90b741^27a3b2ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVLogger.h000000000080d041^851"CpHeader Classes/CDVLogger.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVLogger.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVLogger.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"BC647376-270D-4705-89C7-2053B9179500-
+
+CCpHeader Classes/CDVNotification.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVNotification.h
+s395349247.647419
+e395349247.651465
+r1
+xCpHeader
+xClasses/CDVNotification.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVNotification.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVNotification.h29eda5ff8c90b741^47c6a6ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVNotification.h000000000080d041^869"CpHeader Classes/CDVNotification.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVNotification.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVNotification.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"1A2A6A65-43E9-490B-B98E-FEC4FCF17289-
+
+CCpHeader Classes/CDVPlugin.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVPlugin.h
+s395349247.675702
+e395349247.683440
+r1
+xCpHeader
+xClasses/CDVPlugin.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVPlugin.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVPlugin.h1022adff8c90b741^fdf5aeff8c90b741^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVPlugin.h000000000080d041^851"CpHeader Classes/CDVPlugin.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVPlugin.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVPlugin.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"1DD8BEFB-8B49-4156-A289-CDA14943F9F0-
+
+CCpHeader Classes/CDVPluginResult.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVPluginResult.h
+s395349247.653981
+e395349247.673558
+r1
+xCpHeader
+xClasses/CDVPluginResult.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVPluginResult.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVPluginResult.h7a1da9ff8c90b741^a778acff8c90b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVPluginResult.h000000000080d041^869"CpHeader Classes/CDVPluginResult.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVPluginResult.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVPluginResult.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"3B54EE9A-1C17-45A5-B7C3-3284D692C4F2-
+
+CCpHeader Classes/CDVReachability.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVReachability.h
+s395349247.649775
+e395349247.652461
+r1
+xCpHeader
+xClasses/CDVReachability.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVReachability.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVReachability.hb876a6ff8c90b741^d107a7ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVReachability.h000000000080d041^869"CpHeader Classes/CDVReachability.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVReachability.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVReachability.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"0C3B7578-7514-4B28-A88E-F0A527795BF2-
+
+CCpHeader Classes/CDVScreenOrientationDelegate.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVScreenOrientationDelegate.h
+s395349247.706284
+e395349247.710697
+r1
+xCpHeader
+xClasses/CDVScreenOrientationDelegate.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVScreenOrientationDelegate.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVScreenOrientationDelegate.hb1f9b4ff8c90b741^faefb5ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVScreenOrientationDelegate.h000000000080d041^908"CpHeader Classes/CDVScreenOrientationDelegate.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVScreenOrientationDelegate.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVScreenOrientationDelegate.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"C34B2A9A-5051-4757-841E-EDD108465BCC-
+
+CCpHeader Classes/CDVSound.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVSound.h
+s395349247.650413
+e395349247.661035
+r1
+xCpHeader
+xClasses/CDVSound.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVSound.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVSound.h53b4a6ff8c90b741^fb5baaff8c90b741^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVSound.h000000000080d041^848"CpHeader Classes/CDVSound.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVSound.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVSound.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"332771E9-1971-4401-B52A-6A29DF493C60-
+
+CCpHeader Classes/CDVSplashScreen.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVSplashScreen.h
+s395349247.681973
+e395349247.686185
+r1
+xCpHeader
+xClasses/CDVSplashScreen.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVSplashScreen.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVSplashScreen.hbdc2aeff8c90b741^22abafff8c90b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVSplashScreen.h000000000080d041^869"CpHeader Classes/CDVSplashScreen.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVSplashScreen.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVSplashScreen.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"CD5A3277-0898-47DC-8665-A6DE615D825D-
+
+CCpHeader Classes/CDVTimer.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVTimer.h
+s395349247.713227
+e395349247.716288
+r1
+xCpHeader
+xClasses/CDVTimer.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVTimer.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVTimer.h0bb5b6ff8c90b741^3066b7ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVTimer.h000000000080d041^848"CpHeader Classes/CDVTimer.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVTimer.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVTimer.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"E36DE626-3DC8-4A32-ADAC-66E35C9ECAC9-
+
+CCpHeader Classes/CDVURLProtocol.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVURLProtocol.h
+s395349247.686577
+e395349247.690523
+r1
+xCpHeader
+xClasses/CDVURLProtocol.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVURLProtocol.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVURLProtocol.hc4eaafff8c90b741^82c6b0ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVURLProtocol.h000000000080d041^866"CpHeader Classes/CDVURLProtocol.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVURLProtocol.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVURLProtocol.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"3C2D700E-23A8-4B06-826C-E2C430AE052F-
+
+CCpHeader Classes/CDVUserAgentUtil.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVUserAgentUtil.h
+s395349247.711712
+e395349247.716269
+r1
+xCpHeader
+xClasses/CDVUserAgentUtil.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVUserAgentUtil.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVUserAgentUtil.hc558b6ff8c90b741^e25cb7ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVUserAgentUtil.h000000000080d041^872"CpHeader Classes/CDVUserAgentUtil.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVUserAgentUtil.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVUserAgentUtil.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"085A9D0A-870D-4E12-9214-C76C2C6000AB-
+
+CCpHeader Classes/CDVViewController.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVViewController.h
+s395349247.688407
+e395349247.691978
+r1
+xCpHeader
+xClasses/CDVViewController.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVViewController.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVViewController.hbb64b0ff8c90b741^6825b1ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVViewController.h000000000080d041^875"CpHeader Classes/CDVViewController.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVViewController.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVViewController.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"B9E9D5B6-8E28-49D6-AB4F-D429056714C1-
+
+CCpHeader Classes/CDVWebViewDelegate.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVWebViewDelegate.h
+s395349247.711149
+e395349247.713930
+r1
+xCpHeader
+xClasses/CDVWebViewDelegate.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVWebViewDelegate.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVWebViewDelegate.h2f35b6ff8c90b741^0dc4b6ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVWebViewDelegate.h000000000080d041^878"CpHeader Classes/CDVWebViewDelegate.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVWebViewDelegate.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVWebViewDelegate.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"54288360-79C9-4100-8BFE-DD05D1B7B828-
+
+CCpHeader Classes/CDVWhitelist.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVWhitelist.h
+s395349247.686432
+e395349247.689552
+r1
+xCpHeader
+xClasses/CDVWhitelist.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVWhitelist.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVWhitelist.hb0e3afff8c90b741^4986b0ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/CDVWhitelist.h000000000080d041^860"CpHeader Classes/CDVWhitelist.h /Users/faust45/work/job/app-aggress/build/include/Cordova/CDVWhitelist.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/CDVWhitelist.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"3921CB51-B2D2-42B0-A1EF-04B10A7CC3CD-
+
+CCpHeader Classes/NSArray+Comparisons.h /Users/faust45/work/job/app-aggress/build/include/Cordova/NSArray+Comparisons.h
+s395349247.697791
+e395349247.701676
+r1
+xCpHeader
+xClasses/NSArray+Comparisons.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/NSArray+Comparisons.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/NSArray+Comparisons.hb7d3b2ff8c90b741^23a3b3ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/NSArray+Comparisons.h000000000080d041^881"CpHeader Classes/NSArray+Comparisons.h /Users/faust45/work/job/app-aggress/build/include/Cordova/NSArray+Comparisons.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/NSArray+Comparisons.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"9AD24F95-2365-46E9-A6EF-D2D75642B808-
+
+CCpHeader Classes/NSData+Base64.h /Users/faust45/work/job/app-aggress/build/include/Cordova/NSData+Base64.h
+s395349247.647436
+e395349247.650583
+r1
+xCpHeader
+xClasses/NSData+Base64.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/NSData+Base64.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/NSData+Base64.hbceaa5ff8c90b741^548da6ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/NSData+Base64.h000000000080d041^863"CpHeader Classes/NSData+Base64.h /Users/faust45/work/job/app-aggress/build/include/Cordova/NSData+Base64.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/NSData+Base64.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"31F21345-001C-4BD4-AFCC-3929C385E874-
+
+CCpHeader Classes/NSDictionary+Extensions.h /Users/faust45/work/job/app-aggress/build/include/Cordova/NSDictionary+Extensions.h
+s395349247.636820
+e395349247.643217
+r1
+xCpHeader
+xClasses/NSDictionary+Extensions.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/NSDictionary+Extensions.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/NSDictionary+Extensions.hf431a3ff8c90b741^00aaa4ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/NSDictionary+Extensions.h000000000080d041^893"CpHeader Classes/NSDictionary+Extensions.h /Users/faust45/work/job/app-aggress/build/include/Cordova/NSDictionary+Extensions.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/NSDictionary+Extensions.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"8AFD630D-1E5E-4625-AB03-B2AE4CD26603-
+
+CCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/faust45/work/job/app-aggress/build/include/Cordova/NSMutableArray+QueueAdditions.h
+s395349247.684269
+e395349247.687171
+r1
+xCpHeader
+xClasses/NSMutableArray+QueueAdditions.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/NSMutableArray+QueueAdditions.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/NSMutableArray+QueueAdditions.hb457afff8c90b741^32e9afff8c90b741^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/NSMutableArray+QueueAdditions.h000000000080d041^911"CpHeader Classes/NSMutableArray+QueueAdditions.h /Users/faust45/work/job/app-aggress/build/include/Cordova/NSMutableArray+QueueAdditions.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/NSMutableArray+QueueAdditions.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"EEA75E85-73E1-4C30-93BD-BD06A2854726-
+
+CCpHeader Classes/UIDevice+Extensions.h /Users/faust45/work/job/app-aggress/build/include/Cordova/UIDevice+Extensions.h
+s395349247.694656
+e395349247.699515
+r1
+xCpHeader
+xClasses/UIDevice+Extensions.h
+x/Users/faust45/work/job/app-aggress/build/include/Cordova/UIDevice+Extensions.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy /Users/faust45/work/job/app-aggress/build/include/Cordova/UIDevice+Extensions.hf703b2ff8c90b741^e013b3ff8c90b741^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/faust45/work/job/app-aggress/build/include/Cordova/UIDevice+Extensions.h000000000080d041^881"CpHeader Classes/UIDevice+Extensions.h /Users/faust45/work/job/app-aggress/build/include/Cordova/UIDevice+Extensions.h    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin:/Users/faust45/.manymo/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/faust45/work/job/app-aggress/CordovaLib/Classes/UIDevice+Extensions.h /Users/faust45/work/job/app-aggress/build/include/Cordova36"C92DC2F2-24DF-447B-9790-91342CA1F3AC-
+
+CLibtool /Users/faust45/work/job/app-aggress/build/libCordova.a normal i386
+r0
+
+CProcessPCH /var/folders/3p/cwsmt4k57ds43k8vv8plgmw00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-ducrtdzasgamjaezewmdfvqiuxmt/CordovaLib_Prefix.pch.pth CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395700730.253867
+e395700730.271484
+r0
+xProcessPCH
+x/var/folders/3p/cwsmt4k57ds43k8vv8plgmw00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-ducrtdzasgamjaezewmdfvqiuxmt/CordovaLib_Prefix.pch.pth
+xCordovaLib_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oi686-apple-darwin11-gcc-4.2.1: /var/folders/3p/cwsmt4k57ds43k8vv8plgmw00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-ducrtdzasgamjaezewmdfvqiuxmt/CordovaLib_Prefix.pch.dia: No such file or directory
+occ1obj: error: unrecognized command line option "-mios-simulator-version-min=5.0"
+occ1obj: error: unrecognized command line option "-Wno-implicit-atomic-properties"
+occ1obj: error: unrecognized command line option "-Wno-receiver-is-weak"
+occ1obj: error: unrecognized command line option "-Wduplicate-method-match"
+occ1obj: error: unrecognized command line option "-Wconstant-conversion"
+occ1obj: error: unrecognized command line option "-Wint-conversion"
+occ1obj: error: unrecognized command line option "-Wenum-conversion"
+occ1obj: error: unrecognized command line option "-Wno-deprecated-implementations"
+occ1obj: error: unrecognized command line option "-Wno-sign-conversion"
+occ1obj: error: unrecognized command line option "-fobjc-arc"
+occ1obj: error: unrecognized command line option "-fserialize-diagnostics"
+occ1obj: warning: -Wuninitialized is not supported without -O
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile CordovaLib_Prefix.pche15e41fae995b741^697245fae995b741^-1141"i686-apple-darwin11-gcc-4.2.1: /var/folders/3p/cwsmt4k57ds43k8vv8plgmw00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-ducrtdzasgamjaezewmdfvqiuxmt/CordovaLib_Prefix.pch.dia: No such file or directorycc1obj: error: unrecognized command line option "-mios-simulator-version-min=5.0"cc1obj: error: unrecognized command line option "-Wno-implicit-atomic-properties"cc1obj: error: unrecognized command line option "-Wno-receiver-is-weak"cc1obj: error: unrecognized command line option "-Wduplicate-method-match"cc1obj: error: unrecognized command line option "-Wconstant-conversion"cc1obj: error: unrecognized command line option "-Wint-conversion"cc1obj: error: unrecognized command line option "-Wenum-conversion"cc1obj: error: unrecognized command line option "-Wno-deprecated-implementations"cc1obj: error: unrecognized command line option "-Wno-sign-conversion"cc1obj: error: unrecognized command line option "-fobjc-arc"cc1obj: error: unrecognized command line option "-fserialize-diagnostics"cc1obj: warning: -Wuninitialized is not supported without -OCommand /usr/bin/gcc-4.2 failed with exit code 11(21%IDEActivityLogMessage2@48"Command /usr/bin/gcc-4.2 failed with exit code 1-395700730#18446744073709551615#0#-2#--29"Apple LLVM compiler 4.2 Error--0#0#0#-19%DVTDocumentLocation3@84"file://localhost/Users/faust45/work/job/app-aggress/CordovaLib/CordovaLib_Prefix.pch0000000000000000^3675"ProcessPCH /var/folders/3p/cwsmt4k57ds43k8vv8plgmw00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-ducrtdzasgamjaezewmdfvqiuxmt/CordovaLib_Prefix.pch.pth CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/faust45/work/job/app-aggress/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/gems/ruby-1.9.2-p290@global/bin:/Users/faust45/.rvm/rubies/ruby-1.9.2-p290/bin:/Users/faust45/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/bin:/Users/faust45/bin:/usr/bin"    /usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/faust45/work/job/app-aggress/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/faust45/work/job/app-aggress/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/faust45/work/job/app-aggress/build -DDEBUG --serialize-diagnostics /var/folders/3p/cwsmt4k57ds43k8vv8plgmw00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-ducrtdzasgamjaezewmdfvqiuxmt/CordovaLib_Prefix.pch.dia -c /Users/faust45/work/job/app-aggress/CordovaLib/CordovaLib_Prefix.pch -o /var/folders/3p/cwsmt4k57ds43k8vv8plgmw00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-ducrtdzasgamjaezewmdfvqiuxmt/CordovaLib_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/3p/cwsmt4k57ds43k8vv8plgmw00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-ducrtdzasgamjaezewmdfvqiuxmt/CordovaLib_Prefix.pch.d36"B161DF59-6D3F-42E0-99C7-E430389897AB-
+
